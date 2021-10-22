@@ -17,7 +17,7 @@ A progressive web app that allows a user to track there expenses and budget acco
 
 ## Usage
 Open the application via the deployed Heroku Link below.
-LINK:
+LINK: https://floating-cove-02210.herokuapp.com/
 
 OR once you have cloned the repository
   * In your terminal / console invoke the commenad:
